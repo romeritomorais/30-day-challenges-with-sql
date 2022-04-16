@@ -20,3 +20,7 @@ e faça o login com sua conta do gmail
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/challenges/src/img/colab-git-open.png)  
 
 **6** Bom desafio para tu. 
+
+
+Observação:.  
+O banco de dados usada nos desafios é em sqlite3 disponibilizada pelo software Dbeaver.
