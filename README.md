@@ -10,11 +10,7 @@
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-1.png)  
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-2.png)  
 
-**4** No campo acima adicione o link: https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/databricks_challengers.dbc
-
-![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-3.png) 
-
-**5** agora clique no botão `import` vai aparecer uma pasta criada
+**4** No campo acima adicione o link: https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/databricks.dbc agora clique no botão `import` vai aparecer uma pasta criada chamada `databricks`
 
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-4.png) 
 
