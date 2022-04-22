@@ -7,12 +7,12 @@
 
 **3** após a criação da sua conta voce faz o login e na parte esquerda localize o nome `Workspace` e click nele, após isso vai aparecer a pasta `Users`, clique nele e depois em cima do seu email e faça como na imagem abaixo.
 
-![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-1.png)  
+![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-01.png)  
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-2.png)  
 
 **4** No campo acima adicione o link: https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/databricks.dbc agora clique no botão `import` vai aparecer uma pasta criada chamada `databricks`
 
-![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-4.png) 
+![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-04.png) 
 
 **6** clique na pasta `databricks_challengers` e depois no notebook `setup`
 
