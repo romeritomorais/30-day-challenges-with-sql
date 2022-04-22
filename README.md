@@ -1,4 +1,4 @@
-# Instuções de uso do desafios
+# Instruções de uso do desafios
 
 **1**.faça o Fork desse repositório para o seu github.  
 **2**.crie uma conta no databricks community: https://community.cloud.databricks.com/
