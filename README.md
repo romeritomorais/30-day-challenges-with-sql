@@ -5,7 +5,7 @@
 
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-7.png)  
 
-**3** após a criação da sua conta voce faz o login e na parte esquerda localize o nome `Workspace` e click nele, após isso vai aparecer a pasta `Users`, clique nele e depois em cima do seu email e faça como na imagem abaixo.
+**3** após a criação da sua conta faça login, na parte esquerda dentro do databricks, localize o nome `Workspace` e clique nele, após isso vai aparecer a pasta `Users`, clique nele e depois em cima do seu email e faça como na imagem abaixo.
 
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-01.png)  
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-2.png)  
@@ -14,14 +14,16 @@
 
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-04.png) 
 
-**6** clique na pasta `databricks_challengers` e depois no notebook `setup`
+**6** clique na pasta `databricks` e depois no notebook `setup`
 
 ![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-5.png)  
 
-**7** Antes de executar selecione o cluster, na primeira execução o cluster pode demorar a iniciar, isso é normal, por se tratar de uma conta community o databricks disponibiliza esse cluster de forma compartilhada.
+**7** Antes de executar, selecione o cluster, na primeira execução o cluster pode demorar iniciar, isso é normal, como estamos usando uma conta community o databricks disponibiliza esse cluster de forma compartilhada.
 
-**8** Após finalizar a execução do notebook vai aparecer o nome das tabelas criadas, vá para a pasta `challengers` e execute os desafios
+**8** Após finalizar a execução do notebook vai aparecer o nome das tabelas criadas, vá para a pasta `src/notebooks` e execute os desafios  
+
+![](https://github.com/romeritomorais/30-day-challenges-with-sql/blob/main/src/img/dbc-6.png)  
 
 ## Execute o notebook `setup` apenas umas vez para a criação das tabelas, execute uma segunda vez caso voce tenha excluido alguma tabela ou fez uma operação de UPDATE errada etc..
 
-Toda vez que houver novos desafios, faça as etapas acimas: 1 a 5
+Toda vez que houver novos desafios, faça as etapas de **1** a **5**
